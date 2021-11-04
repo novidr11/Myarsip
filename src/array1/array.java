@@ -10,6 +10,7 @@ public class array {
     int [] data  ;
     int maxsize ;
     int size ; 
+    int a;
     
 //    public array (){
 //        maxsize = 10;
